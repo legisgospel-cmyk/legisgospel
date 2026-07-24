@@ -2044,3 +2044,4 @@ lijit.com, 584539, RESELLER, fafdf38b16bf6b2b
 adagio.io, 1054, RESELLER
 ignitemediatech.com, pub_11130, RESELLER
 bigo.sg,udxs573w8e,DIRECT
+openx.com, 565175463, RESELLER, 6a698e2ec38604c6
